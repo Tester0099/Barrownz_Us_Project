@@ -1,4 +1,4 @@
-ï»¿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <doc>
   <assembly>
     <name>System.Web.Helpers</name>
@@ -341,10 +341,10 @@
       <summary>Specifies the direction in which to sort a list of items.</summary>
     </member>
     <member name="F:System.Web.Helpers.SortDirection.Ascending">
-      <summary>Sort from smallest to largest â€”for example, from 1 to 10.</summary>
+      <summary>Sort from smallest to largest —for example, from 1 to 10.</summary>
     </member>
     <member name="F:System.Web.Helpers.SortDirection.Descending">
-      <summary>Sort from largest to smallest â€” for example, from 10 to 1.</summary>
+      <summary>Sort from largest to smallest — for example, from 10 to 1.</summary>
     </member>
     <member name="T:System.Web.Helpers.WebCache">
       <summary>Provides a cache to store frequently accessed data.</summary>

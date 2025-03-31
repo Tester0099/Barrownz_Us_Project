@@ -1,4 +1,4 @@
-ï»¿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <doc>
   <assembly>
     <name>System.Web.WebPages</name>
@@ -302,7 +302,7 @@
       <summary>Represents the mode for rendering normal text.</summary>
     </member>
     <member name="F:System.Web.Mvc.TagRenderMode.SelfClosing">
-      <summary>Represents the mode for rendering a self-closing tag (for example, &lt;tagÂ /&gt;).</summary>
+      <summary>Represents the mode for rendering a self-closing tag (for example, &lt;tag /&gt;).</summary>
     </member>
     <member name="F:System.Web.Mvc.TagRenderMode.StartTag">
       <summary>Represents the mode for rendering an opening tag (for example, &lt;tag&gt;).</summary>
@@ -557,7 +557,7 @@
       <param name="suffix">The suffix.</param>
     </member>
     <member name="T:System.Web.WebPages.DisplayInfo">
-      <summary>This type/member supports the .NET Framework infrastructure and is not intended to be used directly from your code.Represents a propertyâ€™s display information.</summary>
+      <summary>This type/member supports the .NET Framework infrastructure and is not intended to be used directly from your code.Represents a property’s display information.</summary>
     </member>
     <member name="M:System.Web.WebPages.DisplayInfo.#ctor(System.String,System.Web.WebPages.IDisplayMode)">
       <summary>This type/member supports the .NET Framework infrastructure and is not intended to be used directly from your code.Initializes a new instance of the <see cref="T:System.Web.WebPages.DisplayInfo" /> class.</summary>

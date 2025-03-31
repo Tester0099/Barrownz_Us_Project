@@ -1,4 +1,4 @@
-﻿//This js image hover effect start here
+//This js image hover effect start here
 let el = document.querySelector('.dev')
 //let el = document.getElementById("dev");
 
